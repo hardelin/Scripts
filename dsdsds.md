@@ -17,12 +17,12 @@ Functions
 
 ### perimetr
 
-параметры:
-    -a (int/float): сторона квадрата\
+параметры:\
+    a (int/float): сторона квадрата\
 Возвращаемое значение:\
-    -perimetr (int/float): периметр квадрата со стороной a\
+    perimetr (int/float): периметр квадрата со стороной a\
 Пример:\
-    -perimetr(20) -> 80\
+    perimetr(20) -> 80\
 
 ### area
 
