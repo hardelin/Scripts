@@ -1,10 +1,10 @@
 # Оглавление
 Описание библиотеки
 - [Functions](#functions)
-	- [square.py](#square-py)
+	- [square.py](#squarepy)
 		- [perimetr](#perimetr)
 		- [area](#area)
-	- [circle.py](#circle-py)
+	- [circle.py](#circlepy)
 		- [perimetr](#perimetr-1)
 		- [area](#area-1)
 
