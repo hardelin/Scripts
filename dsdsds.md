@@ -1,13 +1,14 @@
 # Оглавление
 Описание библиотеки
-Functions
-	sqare.py
-		perimetr
-		area
-	circle.py
-		perimetr
-		area
-[История изменений](#История-изменений-1)
+- [Functions](#functions)
+	- sqare.py
+		- perimetr
+		- area
+	- circle.py
+		- perimetr
+		- area
+
+[История изменений](#история-изменений)
 # Описание библиотеки
 	Позволяет вычислить периметр и площадь геометрических фигур
 
